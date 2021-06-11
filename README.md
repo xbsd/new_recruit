@@ -10,4 +10,4 @@ Repository includes:
 2) Excel Files for
 - Maximise co-operation
 - Maximise co-operation under non-negotiable constraints; and
-- c) Minimise co-operation
+- Minimise co-operation
